@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "verifiedAt": "2026-10-15",
-  "generatedAt": "2026-11-28T03:21:39.575Z",
+  "generatedAt": "2026-11-28T17:38:38.811Z",
   "status": "curated_schedule",
   "discoveryStatus": "ok",
   "curationNote": "Registros selecionados manualmente a partir de páginas e editais da banca Cebraspe, consultados em 15/10/2026. Alterações posteriores exigem nova verificação.",
@@ -85,6 +85,13 @@
   ],
   "leads": [
     {
+      "id": "lead-47e4120328376821",
+      "title": "SECRETARIA DE ESTADO DA ADMINISTRAÇÃO DO MARANHÃO (SEAD/MA) POLÍCIA CIVIL DO MARANHÃO (PCMA) CONCURSO PÚBLICO PARA O PROVI - UnB",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZk9MbWNCVThmQUZLMmczNUFnM09XQUpubGRHaFg3bHZleWJnMXI5LXozOFFDQUZMM2Jram03ekFMcmhtQzlZbmU2NjUzREFfTFpVb2ktakxWZDJtaUJEa2tsTWNXVV9mYnU5Q3RLMDVGamJxYzVpcVFsc2tYbXVtUjZLc2UxSjBJbjN3NnZybzh1V3R5enVST1c5Q2xPX2JkRW8xM3ZpZ0hzdXJybkNpVDlBSG42cFNUQXlFTHZtZ2FSbXEwQ2FLNklHQ2lENU81eFlR?oc=5",
+      "published": "2026-11-28",
+      "source": "https://cdn.cebraspe.org.br"
+    },
+    {
       "id": "lead-e1d227e004f9cd6c",
       "title": "Manausprev orienta 18,9 mil inscritos no concurso a consultar locais de prova - Prefeitura de Manaus",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPejM5RmRlZk5qckRQWTh5RkpoNTRyTWltNV8yOGhNWHBhc0M0S0hfLU5vMENES01pYXVtTWZuWnFVaTZYTEhTSnJ5RnZhTkhWVEtuNDdST256YkRPTk1vOE9Kb293RTZiU3k0UEVnd1F1S0MzTGhkMy10eUJfVFJCclh1aDczZw?oc=5",
@@ -106,9 +113,9 @@
       "source": "https://pmspa.rj.gov.br"
     },
     {
-      "id": "lead-9c2b3dedb8ac73dd",
+      "id": "lead-2d295c67429ab46f",
       "title": "SECRETARIA DE ESTADO DA ADMINISTRAÇÃO DO MARANHÃO (SEAD/MA) POLÍCIA CIVIL DO MARANHÃO (PCMA) CONCURSO PÚBLICO PARA O PROVI - UnB",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNXzQyNUhLQ1VxNTZKQ29rbTB5aTNwbVhTTk83S0pqYXZELTJCZ091NjJLRTBTT09hS3VNNGdjVnZoNlFJYm93U0R0UUg2Z0FQYmNpcFpZVVhqWERid3VTdURxejFFSnJ6Vk9IOTdZNnBxcFE5MWZFMkczOVdyWjc4RGVScTBpcDVpV0JkYXhRdi1fN0VtY25fNHN0Y01OdTF4TXRrVXBIWE1QSE1YNHFxM1NQUEhGNjJSazI1T2dDSF94WjdmQWlCc1E4SWd2UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdFJ3Y0pIMDhIdnh2WG4yNFNnZE1zNDM2cDJMWE1hRGZaeUJHM1gwOENlNnVxQWpKdkNLR1dzV2Z4RGNNWnNqY0I2Z0h4MThoeHNhZ3EwVGh0VUJOaVU5VmxPN3NoRGFBbDd2MjhMN0VleEljb0NFek5HT2JiWDdvNzZtS0JrUUhmcGV0X2JXQmY1M1JVNEY2TDZBWXdjR2ljeVJFUGd2dnlYaWxGejZCREljVUZqUWR1cHR3QUcwaWM3RDN5Z1ZxdFZrb0tjZw?oc=5",
       "published": "2026-11-26",
       "source": "https://cdn.cebraspe.org.br"
     },
@@ -141,6 +148,13 @@
       "source": "https://portal.coren-sp.gov.br"
     },
     {
+      "id": "lead-9c2b3dedb8ac73dd",
+      "title": "SECRETARIA DE ESTADO DA ADMINISTRAÇÃO DO MARANHÃO (SEAD/MA) POLÍCIA CIVIL DO MARANHÃO (PCMA) CONCURSO PÚBLICO PARA O PROVI - UnB",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNXzQyNUhLQ1VxNTZKQ29rbTB5aTNwbVhTTk83S0pqYXZELTJCZ091NjJLRTBTT09hS3VNNGdjVnZoNlFJYm93U0R0UUg2Z0FQYmNpcFpZVVhqWERid3VTdURxejFFSnJ6Vk9IOTdZNnBxcFE5MWZFMkczOVdyWjc4RGVScTBpcDVpV0JkYXhRdi1fN0VtY25fNHN0Y01OdTF4TXRrVXBIWE1QSE1YNHFxM1NQUEhGNjJSazI1T2dDSF94WjdmQWlCc1E4SWd2UQ?oc=5",
+      "published": "2026-11-26",
+      "source": "https://cdn.cebraspe.org.br"
+    },
+    {
       "id": "lead-328b22eb11b50c5d",
       "title": "Concurso Público nº 001/2026: Prefeitura de Iepê abre inscrições - Prefeitura de Iepê",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVXNPa2lZT3V6Q19BaHNPM3RpUzUtYjVBdFJTNTczcmR1Y0UwNjZTeHZDQVZhWFA1WHhpclExSGxjZkdsVjlVQ0dBR0JEckxqSXJrNzZRSUZad2w4QXgzQVE1M3RWQ0hTVnR6cC1aRzFpa0pQbEctS3k2LWtsNjlvTWY2TUx6bDJsejdwZUFwSWg3YkFWU2R3dDRPRUNaRlNjM3RjZXdwUjEwT3pTOVF4aXdFWURnQQ?oc=5",
@@ -155,9 +169,9 @@
       "source": "https://biblioteca.cofen.gov.br"
     },
     {
-      "id": "lead-b10cef2b164872f5",
-      "title": "CONTROLADORIA-GERAL DA UNIÃO (CGU) CONCURSO PÚBLICO PARA O PROVIMENTO DE VAGAS E A FORMAÇÃO DE CADASTRO DE RESERVA EM CARGOS - UnB",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHZnZTFqSUc0am55ZE1SemlkRjhpbmFXT1ZLamgzMzJtVXNtd3VVa0hIaGlRdU5STjQ0UjFSX3gyZGNqNVBRVDhUSDAzMl90QjlRaURzVzhLRWx4RU1MaXBpRkp2WlFzczJ6OWpRam5DWHhGcm5ncl9JZDVEeFNnTHo3LVZ3eFgxSzJIb3NKWmJfZ0t3bVNNWDU1QmxtY2kwaFZiMzRxLUJWQXRkYXBsRnY2RzMxQWFMTjJOZzNsTExRODlWV3c?oc=5",
+      "id": "lead-927cf43d02f0c58d",
+      "title": "AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DO PARANÁ (AGEPAR) CONCURSO PÚBLICO PARA O PROVIMENTO DE VAGAS E A FORMA - UnB",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUUweVU0Ri1pX1lBMHoxc2Q5WDhPZW9IdVdfXzMtN1RkN2RhVk9jWDlTd2xHZUw4WGU5aEtFTnVTbkNZZjBqalFVc2ZDbzRmTnJFVkZFZjZYQmhXa2FnamtLVG8zSDFYOXJuVXhQZ05uNzBfV2RXZVdySlV6YWFmdk95c0tNTl9HOTVWSWF5dk5vM1RTbDJPWXE2a0FwbWVFakZaZDVrNjdsUXlmcENxLXJDNFhhRWowVEFudndqU3k5eEJNajdj?oc=5",
       "published": "2026-11-25",
       "source": "https://cdn.cebraspe.org.br"
     },
@@ -167,13 +181,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTA2U0h0WDNsY2pjUEFfNHBESHZSSFVjYXVlNVRsY3VvUWpMNFVDQ2FUSlRmMUtIc2d1X0VOUXRFWExsR3dxSDktTnNFUDFBRVd2WkEwNkNRTWVmWW16RmUxcVdEQ3RwU0hEaWJtR0JrRGd0RUFVTzlzMU9MUzl0Q1U4YnMtN1B2VXBmSVVPelZLQnZEY005bldVMUI0dVlEVnVKaXhUSURmSjA?oc=5",
       "published": "2026-11-25",
       "source": "https://www.cebraspe.org.br"
-    },
-    {
-      "id": "lead-0feb70fe22661058",
-      "title": "AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DELEGADOS DO PARANÁ (AGEPAR) CONCURSO PÚBLICO PARA O PROVIMENTO DE VAGAS E A FORMA - UnB",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFhkU0loSS0tN3N3U3pxTm11VEIwM2tuZ0R3T2tWTlJkWlQzeU9Jc2tZZFc3YXVWN0pNZWNyd2tXd1RoTlUtaHM2QVZYLVVaeXo0Z1Y4TFRhZGRBLWg3MzRzczAwcTFrbGVFRGJadWJGVV9PcVk1eEo1d20yUnNUYUdmUVBjNmRwWkdJNHVhVGhkaHJSdFpldkpzdlJJTWZScFZfeGotemNub1d6NnI5NUFvYncxNTlJTXB2UjhSSmt3M2RxeWxF?oc=5",
-      "published": "2026-11-25",
-      "source": "https://cdn.cebraspe.org.br"
     },
     {
       "id": "lead-5bfaeaaca022c4e1",
@@ -188,13 +195,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUEZvTXNrV2VBVDN5Y3dzSU9nVkR2eTV3blF5WUY5ODIwblZFbVZjNnAtYzNzX2hxYktMRWZveDdRM1JDczVPaFhJTjZRcFBwUVhuZ2tpazJsVVEyWEZNWWJ3UHlfV0RPS29UXzFmc2ZmdjZFUEduTGlndGg2Z0ZYVURCQlE3MTJVRXlOMnpZeVpJTGdXcU5HSnpOQWdLUVFQVnJjMkRfQkl0OXdWTmVrQ2ZVV202UktKT1hrXzJmYU9fLWdTUVRIUk1hemNkOTMxbkxLU1pabXREMTU5bE8xMQ?oc=5",
       "published": "2026-11-25",
       "source": "https://www.cofen.gov.br"
-    },
-    {
-      "id": "lead-7a5b902fe61aadfb",
-      "title": "Concurso da Prefeitura de Chapecó prevê 91 vagas - Prefeitura de Chapecó",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjF3QWZva2h6MWxWUVN1U2lfblQtVlVmWWpKRnBuSHdWRll0SUtTSklyOUtVUmEtUzlCSWZicVM5X2JmQVBXNGtxZW1DVzhZNHlkQTBQYTE2aXBDNE1KQjRUb0tWOUE3RS04NVFYNkZsdExQR2xTZXM2eDB0c0tUalFFcXlTbFBocTkyZ0xyTXRiX0hCbTNN?oc=5",
-      "published": "2026-11-25",
-      "source": "https://www.chapeco.sc.gov.br"
     }
   ]
 }

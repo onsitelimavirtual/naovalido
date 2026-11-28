@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "product": "Painel de Oportunidades de Emprego",
   "engine": "QA Integridade 1.0",
-  "generatedAt": "2026-11-28T03:21:40.123Z",
+  "generatedAt": "2026-11-28T17:38:39.401Z",
   "status": "passed_with_warnings",
   "summary": "Integridade estrutural aprovada com 3 alerta(s) para revisão.",
   "totals": {
